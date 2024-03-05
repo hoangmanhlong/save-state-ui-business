@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test State</string>
+    <string name="ui">UI: %s</string>
+    <string name="logic">LOGIC: %s</string>
+</resources>
